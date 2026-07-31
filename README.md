@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/rishabh-1617/leetcode/tree/master/0292-nim-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rishabh-1617/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rishabh-1617/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
