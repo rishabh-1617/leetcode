@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 | [4321-digit-frequency-score](https://github.com/rishabh-1617/leetcode/tree/master/4321-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/rishabh-1617/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
+| [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 ## Counting
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 <!---LeetCode Topics End-->
