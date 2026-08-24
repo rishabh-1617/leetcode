@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/rishabh-1617/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4168-mirror-distance-of-an-integer](https://github.com/rishabh-1617/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 | [4321-digit-frequency-score](https://github.com/rishabh-1617/leetcode/tree/master/4321-digit-frequency-score) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/rishabh-1617/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
