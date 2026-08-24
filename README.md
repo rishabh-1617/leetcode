@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/rishabh-1617/leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/rishabh-1617/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishabh-1617/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/rishabh-1617/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rishabh-1617/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 ## Recursion
 |  |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/rishabh-1617/leetcode/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
