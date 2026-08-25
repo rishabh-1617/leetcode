@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishabh-1617/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/rishabh-1617/leetcode/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/rishabh-1617/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/rishabh-1617/leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/rishabh-1617/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rishabh-1617/leetcode/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/rishabh-1617/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/rishabh-1617/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2650-split-with-minimum-sum](https://github.com/rishabh-1617/leetcode/tree/master/2650-split-with-minimum-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/rishabh-1617/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
