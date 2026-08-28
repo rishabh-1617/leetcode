@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabh-1617/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabh-1617/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabh-1617/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishabh-1617/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4280-count-digit-appearances](https://github.com/rishabh-1617/leetcode/tree/master/4280-count-digit-appearances) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishabh-1617/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabh-1617/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4321-digit-frequency-score](https://github.com/rishabh-1617/leetcode/tree/master/4321-digit-frequency-score) |
 ## Math
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabh-1617/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabh-1617/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishabh-1617/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
 | [3830-find-closest-person](https://github.com/rishabh-1617/leetcode/tree/master/3830-find-closest-person) |
