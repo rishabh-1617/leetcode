@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 | [4280-count-digit-appearances](https://github.com/rishabh-1617/leetcode/tree/master/4280-count-digit-appearances) |
 | [4321-digit-frequency-score](https://github.com/rishabh-1617/leetcode/tree/master/4321-digit-frequency-score) |
+| [4332-check-good-integer](https://github.com/rishabh-1617/leetcode/tree/master/4332-check-good-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
+| [4332-check-good-integer](https://github.com/rishabh-1617/leetcode/tree/master/4332-check-good-integer) |
 ## Counting
 |  |
 | ------- |
