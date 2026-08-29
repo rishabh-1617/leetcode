@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/rishabh-1617/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/rishabh-1617/leetcode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/rishabh-1617/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/rishabh-1617/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabh-1617/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/rishabh-1617/leetcode/tree/master/2650-split-with-minimum-sum) |
@@ -139,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2571-find-the-pivot-integer](https://github.com/rishabh-1617/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/rishabh-1617/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
