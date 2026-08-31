@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/rishabh-1617/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/rishabh-1617/leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/rishabh-1617/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0897-prime-palindrome](https://github.com/rishabh-1617/leetcode/tree/master/0897-prime-palindrome) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/rishabh-1617/leetcode/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishabh-1617/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
