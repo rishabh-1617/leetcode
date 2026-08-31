@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/rishabh-1617/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/rishabh-1617/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/rishabh-1617/leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/rishabh-1617/leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/rishabh-1617/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/rishabh-1617/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/rishabh-1617/leetcode/tree/master/0897-prime-palindrome) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rishabh-1617/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/rishabh-1617/leetcode/tree/master/2507-number-of-common-factors) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/rishabh-1617/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rishabh-1617/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/rishabh-1617/leetcode/tree/master/2507-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rishabh-1617/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/rishabh-1617/leetcode/tree/master/2507-number-of-common-factors) |
 ## Primality Test
 |  |
 | ------- |
@@ -174,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/rishabh-1617/leetcode/tree/master/1115-valid-boomerang) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/rishabh-1617/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
