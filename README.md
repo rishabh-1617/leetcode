@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1115-valid-boomerang](https://github.com/rishabh-1617/leetcode/tree/master/1115-valid-boomerang) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/rishabh-1617/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishabh-1617/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rishabh-1617/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/rishabh-1617/leetcode/tree/master/0897-prime-palindrome) |
 | [1115-valid-boomerang](https://github.com/rishabh-1617/leetcode/tree/master/1115-valid-boomerang) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rishabh-1617/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/rishabh-1617/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishabh-1617/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/rishabh-1617/leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
