@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rishabh-1617/leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/rishabh-1617/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0897-prime-palindrome](https://github.com/rishabh-1617/leetcode/tree/master/0897-prime-palindrome) |
 | [1115-valid-boomerang](https://github.com/rishabh-1617/leetcode/tree/master/1115-valid-boomerang) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rishabh-1617/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
