@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1115-valid-boomerang](https://github.com/rishabh-1617/leetcode/tree/master/1115-valid-boomerang) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishabh-1617/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/rishabh-1617/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishabh-1617/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rishabh-1617/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
