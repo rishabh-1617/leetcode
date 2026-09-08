@@ -1,6 +1,7 @@
 class Solution:
     def isStrictlyPalindromic(self, n: int) -> bool:
-        binary = bin(n)[2:]
+        return False
+        """binary = bin(n)[2:]
         original = binary
         binary = int(binary)
         rev = 0
@@ -11,5 +12,5 @@ class Solution:
             if original == rev:
                 return True
             else:
-                return False    
+                return False    """
         
