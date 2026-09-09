@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishabh-1617/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/rishabh-1617/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh-1617/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4107-find-missing-elements](https://github.com/rishabh-1617/leetcode/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishabh-1617/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4280-count-digit-appearances](https://github.com/rishabh-1617/leetcode/tree/master/4280-count-digit-appearances) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/rishabh-1617/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/rishabh-1617/leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh-1617/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/rishabh-1617/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/rishabh-1617/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
