@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4107-find-missing-elements](https://github.com/rishabh-1617/leetcode/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishabh-1617/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4280-count-digit-appearances](https://github.com/rishabh-1617/leetcode/tree/master/4280-count-digit-appearances) |
+| [4356-sum-of-integers-with-maximum-digit-range](https://github.com/rishabh-1617/leetcode/tree/master/4356-sum-of-integers-with-maximum-digit-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4280-count-digit-appearances](https://github.com/rishabh-1617/leetcode/tree/master/4280-count-digit-appearances) |
 | [4321-digit-frequency-score](https://github.com/rishabh-1617/leetcode/tree/master/4321-digit-frequency-score) |
 | [4332-check-good-integer](https://github.com/rishabh-1617/leetcode/tree/master/4332-check-good-integer) |
+| [4356-sum-of-integers-with-maximum-digit-range](https://github.com/rishabh-1617/leetcode/tree/master/4356-sum-of-integers-with-maximum-digit-range) |
 ## Binary Search
 |  |
 | ------- |
