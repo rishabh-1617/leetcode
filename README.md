@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4256-construct-uniform-parity-array-i](https://github.com/rishabh-1617/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 | [4280-count-digit-appearances](https://github.com/rishabh-1617/leetcode/tree/master/4280-count-digit-appearances) |
+| [4286-valid-digit-number](https://github.com/rishabh-1617/leetcode/tree/master/4286-valid-digit-number) |
 | [4297-sum-of-primes-between-number-and-its-reverse](https://github.com/rishabh-1617/leetcode/tree/master/4297-sum-of-primes-between-number-and-its-reverse) |
 | [4321-digit-frequency-score](https://github.com/rishabh-1617/leetcode/tree/master/4321-digit-frequency-score) |
 | [4332-check-good-integer](https://github.com/rishabh-1617/leetcode/tree/master/4332-check-good-integer) |
