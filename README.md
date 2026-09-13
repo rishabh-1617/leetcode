@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rishabh-1617/leetcode/tree/master/0242-valid-anagram) |
+| [0742-to-lower-case](https://github.com/rishabh-1617/leetcode/tree/master/0742-to-lower-case) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/rishabh-1617/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
