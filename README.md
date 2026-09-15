@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/rishabh-1617/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/rishabh-1617/leetcode/tree/master/2507-number-of-common-factors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/rishabh-1617/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2556-convert-the-temperature](https://github.com/rishabh-1617/leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/rishabh-1617/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/rishabh-1617/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/rishabh-1617/leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/rishabh-1617/leetcode/tree/master/2507-number-of-common-factors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/rishabh-1617/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/rishabh-1617/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Counting Sort
 |  |
