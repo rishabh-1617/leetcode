@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-sum-of-number-and-its-reverse](https://github.com/rishabh-1617/leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2556-convert-the-temperature](https://github.com/rishabh-1617/leetcode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/rishabh-1617/leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/rishabh-1617/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/rishabh-1617/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabh-1617/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/rishabh-1617/leetcode/tree/master/2630-alternating-digit-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/rishabh-1617/leetcode/tree/master/1115-valid-boomerang) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/rishabh-1617/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Enumeration
 |  |
 | ------- |
