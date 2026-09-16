@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rishabh-1617/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/rishabh-1617/leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabh-1617/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3373-maximum-prime-difference](https://github.com/rishabh-1617/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabh-1617/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/rishabh-1617/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/rishabh-1617/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/rishabh-1617/leetcode/tree/master/3371-harshad-number) |
+| [3373-maximum-prime-difference](https://github.com/rishabh-1617/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabh-1617/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/rishabh-1617/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rishabh-1617/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/rishabh-1617/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/rishabh-1617/leetcode/tree/master/2507-number-of-common-factors) |
+| [3373-maximum-prime-difference](https://github.com/rishabh-1617/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/rishabh-1617/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4297-sum-of-primes-between-number-and-its-reverse](https://github.com/rishabh-1617/leetcode/tree/master/4297-sum-of-primes-between-number-and-its-reverse) |
 ## String
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/rishabh-1617/leetcode/tree/master/0897-prime-palindrome) |
+| [3373-maximum-prime-difference](https://github.com/rishabh-1617/leetcode/tree/master/3373-maximum-prime-difference) |
 ## Geometry
 |  |
 | ------- |
