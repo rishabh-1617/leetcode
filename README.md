@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh-1617/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/rishabh-1617/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/rishabh-1617/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/rishabh-1617/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
 | [4168-mirror-distance-of-an-integer](https://github.com/rishabh-1617/leetcode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4245-count-commas-in-range](https://github.com/rishabh-1617/leetcode/tree/master/4245-count-commas-in-range) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/rishabh-1617/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/rishabh-1617/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 | [4332-check-good-integer](https://github.com/rishabh-1617/leetcode/tree/master/4332-check-good-integer) |
 ## Counting
