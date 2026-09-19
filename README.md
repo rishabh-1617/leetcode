@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/rishabh-1617/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh-1617/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4058-compute-alternating-sum](https://github.com/rishabh-1617/leetcode/tree/master/4058-compute-alternating-sum) |
 | [4107-find-missing-elements](https://github.com/rishabh-1617/leetcode/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishabh-1617/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4280-count-digit-appearances](https://github.com/rishabh-1617/leetcode/tree/master/4280-count-digit-appearances) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/rishabh-1617/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
+| [4058-compute-alternating-sum](https://github.com/rishabh-1617/leetcode/tree/master/4058-compute-alternating-sum) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 | [4332-check-good-integer](https://github.com/rishabh-1617/leetcode/tree/master/4332-check-good-integer) |
 ## Counting
