@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rishabh-1617/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rishabh-1617/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3636-check-balanced-string](https://github.com/rishabh-1617/leetcode/tree/master/3636-check-balanced-string) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
 ## Recursion
