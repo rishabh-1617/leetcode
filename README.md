@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/rishabh-1617/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rishabh-1617/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/rishabh-1617/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishabh-1617/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/rishabh-1617/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/rishabh-1617/leetcode/tree/master/2181-smallest-index-with-equal-value) |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishabh-1617/leetcode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/rishabh-1617/leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
