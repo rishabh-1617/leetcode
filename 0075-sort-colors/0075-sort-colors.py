@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        # TWO POINTERS
+        # THREE POINTERS
         n = len(nums)
         left = 0 
         right = n - 1
