@@ -1,5 +1,8 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
+        
+        return " ".join(word[::-1] for word in s.split(" "))
+        """ TWO POINTERS
         chars = list(s)
         left = 0
         
@@ -16,3 +19,4 @@ class Solution:
                 left = right + 1
 
         return "".join(chars)
+        """
