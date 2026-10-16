@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/rishabh-1617/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rishabh-1617/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rishabh-1617/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/rishabh-1617/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishabh-1617/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rishabh-1617/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/rishabh-1617/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
+| [2000-reverse-prefix-of-word](https://github.com/rishabh-1617/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/rishabh-1617/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rishabh-1617/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/rishabh-1617/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1693-daily-leads-and-partners](https://github.com/rishabh-1617/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rishabh-1617/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/rishabh-1617/leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
