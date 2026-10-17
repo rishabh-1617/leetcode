@@ -1,5 +1,6 @@
 class Solution:
     def firstPalindrome(self, words: list[str]) -> str:
+        """
         # Using TWO Pointers
         for word in words:
             if self.ispalindrome(word): # function call
@@ -17,10 +18,10 @@ class Solution:
             right -= 1
                   
         return True   
-
         """
+        # Brute Force
         for word in words:
             if word == word[::-1]:
                 return word
         return ""
-        """     
+         
