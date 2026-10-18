@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishabh-1617/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabh-1617/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/rishabh-1617/leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishabh-1617/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabh-1617/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabh-1617/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabh-1617/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/rishabh-1617/leetcode/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishabh-1617/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rishabh-1617/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishabh-1617/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishabh-1617/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabh-1617/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabh-1617/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishabh-1617/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rishabh-1617/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabh-1617/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rishabh-1617/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/rishabh-1617/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
