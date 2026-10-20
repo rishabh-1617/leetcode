@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-check-if-the-number-is-fascinating](https://github.com/rishabh-1617/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabh-1617/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/rishabh-1617/leetcode/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rishabh-1617/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4107-find-missing-elements](https://github.com/rishabh-1617/leetcode/tree/master/4107-find-missing-elements) |
 | [4321-digit-frequency-score](https://github.com/rishabh-1617/leetcode/tree/master/4321-digit-frequency-score) |
 ## Math
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishabh-1617/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rishabh-1617/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3636-check-balanced-string](https://github.com/rishabh-1617/leetcode/tree/master/3636-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rishabh-1617/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/rishabh-1617/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rishabh-1617/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
