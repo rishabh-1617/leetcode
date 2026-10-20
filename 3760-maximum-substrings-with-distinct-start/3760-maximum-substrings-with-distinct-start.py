@@ -2,8 +2,8 @@ class Solution:
     def maxDistinct(self, s: str) -> int:
 
         # First Try
-        #return len(set(s))
-
+        return len(set(s))
+        """ More logical
         seen = set()
         count = 0
     
@@ -12,3 +12,4 @@ class Solution:
                 seen.add(char)
                 count += 1
         return count
+        """
