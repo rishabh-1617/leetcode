@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabh-1617/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishabh-1617/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3668-restore-finishing-order](https://github.com/rishabh-1617/leetcode/tree/master/3668-restore-finishing-order) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/rishabh-1617/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh-1617/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rishabh-1617/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/rishabh-1617/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabh-1617/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/rishabh-1617/leetcode/tree/master/3668-restore-finishing-order) |
 | [4107-find-missing-elements](https://github.com/rishabh-1617/leetcode/tree/master/4107-find-missing-elements) |
 | [4321-digit-frequency-score](https://github.com/rishabh-1617/leetcode/tree/master/4321-digit-frequency-score) |
 ## Math
