@@ -5,12 +5,12 @@ class Solution:
         freq = {}
 
         for i in nums:
-
+            # update frequency in dict
             if i in freq:
                 freq[i] += 1
             else:
                 freq[i] = 1
-
+            # immediate check of majority element
             if freq[i] > major:
                 return i       
 
