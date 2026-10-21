@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rishabh-1617/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishabh-1617/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rishabh-1617/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Number Theory
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/rishabh-1617/leetcode/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/rishabh-1617/leetcode/tree/master/0771-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/rishabh-1617/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishabh-1617/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabh-1617/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rishabh-1617/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/rishabh-1617/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishabh-1617/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/rishabh-1617/leetcode/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rishabh-1617/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabh-1617/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
