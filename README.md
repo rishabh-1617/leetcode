@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rishabh-1617/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishabh-1617/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0376-wiggle-subsequence](https://github.com/rishabh-1617/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/rishabh-1617/leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh-1617/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/rishabh-1617/leetcode/tree/master/0376-wiggle-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishabh-1617/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/rishabh-1617/leetcode/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rishabh-1617/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishabh-1617/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabh-1617/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0376-wiggle-subsequence](https://github.com/rishabh-1617/leetcode/tree/master/0376-wiggle-subsequence) |
 ## Matrix
 |  |
 | ------- |
