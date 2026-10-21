@@ -1,6 +1,9 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        
+
+        return int(max(n))
+        # BASIC approach
+        """
         largest = 0
         for ch in n:
 
@@ -8,3 +11,4 @@ class Solution:
                 largest = int(ch)
 
         return largest
+        """
