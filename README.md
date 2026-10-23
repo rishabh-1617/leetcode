@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishabh-1617/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rishabh-1617/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rishabh-1617/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishabh-1617/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabh-1617/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rishabh-1617/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/rishabh-1617/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rishabh-1617/leetcode/tree/master/0020-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rishabh-1617/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bucket Sort
 |  |
