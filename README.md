@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/rishabh-1617/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rishabh-1617/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/rishabh-1617/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/rishabh-1617/leetcode/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/rishabh-1617/leetcode/tree/master/3373-maximum-prime-difference) |
