@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rishabh-1617/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1603-running-sum-of-1d-array](https://github.com/rishabh-1617/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/rishabh-1617/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rishabh-1617/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/rishabh-1617/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishabh-1617/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/rishabh-1617/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/rishabh-1617/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/rishabh-1617/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/rishabh-1617/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/rishabh-1617/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
