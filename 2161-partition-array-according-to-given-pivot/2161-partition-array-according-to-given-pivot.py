@@ -1,11 +1,22 @@
 class Solution:
     def pivotArray(self, nums: list[int], pivot: int) -> list[int]:
-    
-        return (
-            [n for n in nums if n < pivot] +
-            [n for n in nums if n == pivot] +
-            [n for n in nums if n > pivot]
-        )
+        less = []
+        high = []
+        count = 0
+
+        for num in nums:
+
+            if num < pivot:
+                less.append(num)
+            elif num == pivot:
+                count += 1
+            else:
+                high.append(num)
+                
+        return less + [pivot] * count + high
+
+
+        
         # Four Pointer
         """
         n = len(nums)
