@@ -1,12 +1,13 @@
 class Solution:
     def pivotArray(self, nums: list[int], pivot: int) -> list[int]:
-        """
+    
         return (
             [n for n in nums if n < pivot] +
             [n for n in nums if n == pivot] +
             [n for n in nums if n > pivot]
-        )"""
+        )
         # Four Pointer
+        """
         n = len(nums)
         low = 0
         high = n - 1
@@ -29,4 +30,6 @@ class Solution:
             ans[low] = pivot
             low += 1
         return ans   
+
+        """
     
