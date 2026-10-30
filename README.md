@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/rishabh-1617/leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1683-invalid-tweets](https://github.com/rishabh-1617/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/rishabh-1617/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rishabh-1617/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Stack
