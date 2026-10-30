@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rishabh-1617/leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh-1617/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishabh-1617/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/rishabh-1617/leetcode/tree/master/1115-valid-boomerang) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rishabh-1617/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishabh-1617/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishabh-1617/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishabh-1617/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabh-1617/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rishabh-1617/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishabh-1617/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/rishabh-1617/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/rishabh-1617/leetcode/tree/master/0917-reverse-only-letters) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishabh-1617/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rishabh-1617/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/rishabh-1617/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabh-1617/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
