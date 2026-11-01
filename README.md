@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishabh-1617/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/rishabh-1617/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/rishabh-1617/leetcode/tree/master/4058-compute-alternating-sum) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/rishabh-1617/leetcode/tree/master/3636-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rishabh-1617/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/rishabh-1617/leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rishabh-1617/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rishabh-1617/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishabh-1617/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3794-reverse-string-prefix](https://github.com/rishabh-1617/leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rishabh-1617/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
