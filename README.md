@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishabh-1617/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishabh-1617/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/rishabh-1617/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishabh-1617/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/rishabh-1617/leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh-1617/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/rishabh-1617/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rishabh-1617/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/rishabh-1617/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishabh-1617/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/rishabh-1617/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rishabh-1617/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
