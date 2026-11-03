@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishabh-1617/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/rishabh-1617/leetcode/tree/master/3668-restore-finishing-order) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/rishabh-1617/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rishabh-1617/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh-1617/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4058-compute-alternating-sum](https://github.com/rishabh-1617/leetcode/tree/master/4058-compute-alternating-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/rishabh-1617/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/rishabh-1617/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rishabh-1617/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3830-find-closest-person](https://github.com/rishabh-1617/leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh-1617/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
