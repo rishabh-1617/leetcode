@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh-1617/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-1617/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rishabh-1617/leetcode/tree/master/1051-height-checker) |
 | [1115-valid-boomerang](https://github.com/rishabh-1617/leetcode/tree/master/1115-valid-boomerang) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rishabh-1617/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishabh-1617/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabh-1617/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rishabh-1617/leetcode/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabh-1617/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rishabh-1617/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1859-sorting-the-sentence](https://github.com/rishabh-1617/leetcode/tree/master/1859-sorting-the-sentence) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/rishabh-1617/leetcode/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabh-1617/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prime Factorization
 |  |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishabh-1617/leetcode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/rishabh-1617/leetcode/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/rishabh-1617/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Linked List
 |  |
