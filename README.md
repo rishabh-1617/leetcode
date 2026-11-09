@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishabh-1617/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rishabh-1617/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rishabh-1617/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/rishabh-1617/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishabh-1617/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishabh-1617/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rishabh-1617/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rishabh-1617/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rishabh-1617/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/rishabh-1617/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2965-find-missing-and-repeated-values](https://github.com/rishabh-1617/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rishabh-1617/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishabh-1617/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/rishabh-1617/leetcode/tree/master/3668-restore-finishing-order) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/rishabh-1617/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/rishabh-1617/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/rishabh-1617/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/rishabh-1617/leetcode/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/rishabh-1617/leetcode/tree/master/3373-maximum-prime-difference) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishabh-1617/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/rishabh-1617/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/rishabh-1617/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
