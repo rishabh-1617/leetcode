@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishabh-1617/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishabh-1617/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rishabh-1617/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rishabh-1617/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3373-maximum-prime-difference](https://github.com/rishabh-1617/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3467-transform-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabh-1617/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2650-split-with-minimum-sum](https://github.com/rishabh-1617/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rishabh-1617/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/rishabh-1617/leetcode/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rishabh-1617/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/3467-transform-array-by-parity) |
 | [4107-find-missing-elements](https://github.com/rishabh-1617/leetcode/tree/master/4107-find-missing-elements) |
 ## Brainteaser
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/rishabh-1617/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rishabh-1617/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishabh-1617/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rishabh-1617/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/rishabh-1617/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rishabh-1617/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
