@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabh-1617/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabh-1617/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabh-1617/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rishabh-1617/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishabh-1617/leetcode/tree/master/0217-contains-duplicate) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabh-1617/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/rishabh-1617/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rishabh-1617/leetcode/tree/master/0058-length-of-last-word) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabh-1617/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1652-defuse-the-bomb](https://github.com/rishabh-1617/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rishabh-1617/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rishabh-1617/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
