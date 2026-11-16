@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/rishabh-1617/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rishabh-1617/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishabh-1617/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/rishabh-1617/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/rishabh-1617/leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh-1617/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabh-1617/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/rishabh-1617/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/rishabh-1617/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rishabh-1617/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rishabh-1617/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
