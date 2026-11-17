@@ -5,8 +5,20 @@ class Solution:
             if s.count(i) != t.count(i):
                 return i
         """
+        """
         S = list(s)
         T = list(t)
         for c in S:
             T.remove(c)
         return T[0]
+        """
+
+        ans = 0
+
+        for ch in s:
+            ans ^= ord(ch)
+
+        for ch in t:
+            ans ^= ord(ch)
+
+        return chr(ans)
