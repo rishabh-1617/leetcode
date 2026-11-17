@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/rishabh-1617/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/rishabh-1617/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rishabh-1617/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/rishabh-1617/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rishabh-1617/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/rishabh-1617/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/rishabh-1617/leetcode/tree/master/0771-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabh-1617/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rishabh-1617/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rishabh-1617/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rishabh-1617/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rishabh-1617/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rishabh-1617/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/rishabh-1617/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishabh-1617/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rishabh-1617/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rishabh-1617/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [4126-minimum-number-of-flips-to-reverse-binary-string](https://github.com/rishabh-1617/leetcode/tree/master/4126-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishabh-1617/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/rishabh-1617/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rishabh-1617/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rishabh-1617/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3467-transform-array-by-parity](https://github.com/rishabh-1617/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rishabh-1617/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/rishabh-1617/leetcode/tree/master/0917-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/rishabh-1617/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishabh-1617/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rishabh-1617/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabh-1617/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/rishabh-1617/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rishabh-1617/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
