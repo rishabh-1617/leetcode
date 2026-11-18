@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/rishabh-1617/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2032-largest-odd-number-in-string](https://github.com/rishabh-1617/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishabh-1617/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rishabh-1617/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishabh-1617/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rishabh-1617/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rishabh-1617/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
