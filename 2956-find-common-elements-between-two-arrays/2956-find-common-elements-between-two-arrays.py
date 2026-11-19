@@ -1,5 +1,6 @@
 class Solution:
     def findIntersectionValues(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        """
         left = 0
         right = 0
 
@@ -12,8 +13,9 @@ class Solution:
                 right += 1
         
         return [left, right]
-        # Using SET
         """
+        # Using SET
+        
         set1 = set(nums1)
         set2 = set(nums2)
 
@@ -21,4 +23,4 @@ class Solution:
         right = sum(1 for x in nums2 if x in set1)
 
         return [left, right]
-        """
+    
