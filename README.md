@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rishabh-1617/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishabh-1617/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabh-1617/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3925-concatenate-array-with-reverse](https://github.com/rishabh-1617/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4058-compute-alternating-sum](https://github.com/rishabh-1617/leetcode/tree/master/4058-compute-alternating-sum) |
 | [4107-find-missing-elements](https://github.com/rishabh-1617/leetcode/tree/master/4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](https://github.com/rishabh-1617/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/rishabh-1617/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/rishabh-1617/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/rishabh-1617/leetcode/tree/master/4058-compute-alternating-sum) |
 | [4275-traffic-signal-color](https://github.com/rishabh-1617/leetcode/tree/master/4275-traffic-signal-color) |
