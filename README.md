@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh-1617/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rishabh-1617/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3360-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3360-stone-removal-game) |
 | [3371-harshad-number](https://github.com/rishabh-1617/leetcode/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/rishabh-1617/leetcode/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishabh-1617/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rishabh-1617/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/rishabh-1617/leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishabh-1617/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3360-stone-removal-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rishabh-1617/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/rishabh-1617/leetcode/tree/master/3625-stone-removal-game) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabh-1617/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
